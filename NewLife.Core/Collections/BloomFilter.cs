@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections;
 using NewLife.Extension;
+using NewLife.IO;
 
 namespace NewLife.Collections
 {

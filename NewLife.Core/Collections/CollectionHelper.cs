@@ -1,10 +1,13 @@
-﻿using System.Collections.Concurrent;
+﻿using System;
+using System.Collections;
+using System.Collections.Concurrent;
+using System.Collections.Generic;
 using System.Reflection;
 using System.Xml.Serialization;
 using NewLife.Collections;
 using NewLife.Reflection;
 
-namespace System.Collections.Generic
+namespace NewLife.Collections
 {
     /// <summary>集合扩展</summary>
     public static class CollectionHelper

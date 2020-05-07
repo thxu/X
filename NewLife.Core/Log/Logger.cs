@@ -6,6 +6,7 @@ using System.Runtime;
 using System.Runtime.InteropServices;
 using System.Text;
 using NewLife.Extension;
+using NewLife.Common;
 
 namespace NewLife.Log
 {

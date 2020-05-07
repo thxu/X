@@ -4,6 +4,7 @@ using System.Reflection;
 using System.Text;
 using NewLife.Data;
 using NewLife.Reflection;
+using NewLife.IO;
 
 namespace NewLife.Serialization
 {

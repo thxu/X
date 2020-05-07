@@ -2,6 +2,8 @@
 using NewLife.Data;
 using NewLife.Extension;
 using NewLife.Reflection;
+using NewLife.IO;
+using NewLife.Common;
 
 namespace NewLife.Messaging
 {

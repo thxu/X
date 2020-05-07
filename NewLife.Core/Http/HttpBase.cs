@@ -4,6 +4,8 @@ using System.IO;
 using NewLife.Collections;
 using NewLife.Data;
 using NewLife.Extension;
+using NewLife.IO;
+using NewLife.Common;
 
 namespace NewLife.Http
 {

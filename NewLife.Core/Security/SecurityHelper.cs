@@ -2,6 +2,7 @@
 using System.Security.Cryptography;
 using System.Text;
 using NewLife.Security;
+using NewLife.IO;
 
 namespace System
 {

@@ -1,6 +1,8 @@
 ﻿using System;
 using System.Globalization;
 using System.Xml;
+using NewLife.IO;
+using NewLife.Common;
 
 namespace NewLife.Serialization
 {

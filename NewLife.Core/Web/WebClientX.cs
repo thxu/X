@@ -9,6 +9,8 @@ using System.Threading.Tasks;
 using NewLife.Collections;
 using NewLife.Extension;
 using NewLife.Log;
+using NewLife.IO;
+using NewLife.Common;
 #if !NET4
 using System.Net.Http;
 using TaskEx = System.Threading.Tasks.Task;

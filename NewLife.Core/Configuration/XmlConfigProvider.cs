@@ -5,6 +5,7 @@ using System.Text;
 using System.Xml;
 using NewLife.Extension;
 using NewLife.Log;
+using NewLife.IO;
 
 namespace NewLife.Configuration
 {

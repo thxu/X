@@ -10,6 +10,7 @@ using NewLife.Extension;
 using NewLife.IP;
 using NewLife.Log;
 using NewLife.Net;
+using NewLife.IO;
 
 namespace System
 {

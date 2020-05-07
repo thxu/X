@@ -6,6 +6,7 @@ using System.Linq;
 using NewLife.Extension;
 using NewLife.Log;
 using NewLife.Threading;
+using NewLife.Collections;
 
 namespace NewLife.Net
 {

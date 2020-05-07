@@ -8,6 +8,7 @@ using System.Text;
 using NewLife.Data;
 using NewLife.Extension;
 using NewLife.Reflection;
+using NewLife.Common;
 
 namespace NewLife.Serialization
 {

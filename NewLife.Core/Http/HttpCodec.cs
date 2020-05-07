@@ -4,6 +4,7 @@ using NewLife.Data;
 using NewLife.Extension;
 using NewLife.Messaging;
 using NewLife.Model;
+using NewLife.Common;
 
 namespace NewLife.Http
 {

@@ -12,6 +12,7 @@ using NewLife.Log;
 using NewLife.Messaging;
 using NewLife.Net;
 using NewLife.Reflection;
+using NewLife.Common;
 
 namespace NewLife.Remoting
 {

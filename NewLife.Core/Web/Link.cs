@@ -4,6 +4,7 @@ using System.IO;
 using System.Text.RegularExpressions;
 using NewLife.Collections;
 using NewLife.Extension;
+using NewLife.Common;
 
 namespace NewLife.Web
 {

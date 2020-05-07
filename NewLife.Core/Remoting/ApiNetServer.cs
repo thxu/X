@@ -7,6 +7,7 @@ using NewLife.Messaging;
 using NewLife.Net;
 using NewLife.Reflection;
 using NewLife.Threading;
+using NewLife.Collections;
 
 namespace NewLife.Remoting
 {

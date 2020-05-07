@@ -10,6 +10,7 @@ using System.Web.Script.Serialization;
 using System.Xml.Serialization;
 using NewLife.Extension;
 using NewLife.Log;
+using NewLife.Common;
 
 namespace NewLife.Reflection
 {

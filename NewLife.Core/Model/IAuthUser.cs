@@ -2,6 +2,7 @@
 using NewLife.Extension;
 using NewLife.Net;
 using NewLife.Web;
+using NewLife.IO;
 
 namespace NewLife.Model
 {

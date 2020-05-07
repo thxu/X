@@ -4,6 +4,7 @@ using System.Net;
 using System.Net.Sockets;
 using NewLife.Extension;
 using NewLife.Net;
+using NewLife.Common;
 
 namespace NewLife.Log
 {

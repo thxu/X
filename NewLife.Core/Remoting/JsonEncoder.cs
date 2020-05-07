@@ -5,6 +5,7 @@ using NewLife.Data;
 using NewLife.Extension;
 using NewLife.Messaging;
 using NewLife.Serialization;
+using NewLife.Common;
 
 namespace NewLife.Remoting
 {

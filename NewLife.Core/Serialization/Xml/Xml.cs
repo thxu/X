@@ -5,6 +5,7 @@ using System.Xml;
 using System.Xml.Serialization;
 using NewLife.Extension;
 using NewLife.Reflection;
+using NewLife.IO;
 
 namespace NewLife.Serialization
 {

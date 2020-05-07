@@ -2,6 +2,8 @@
 using System.IO;
 using NewLife.Extension;
 using NewLife.Security;
+using NewLife.IO;
+using NewLife.Common;
 
 namespace NewLife.Web
 {

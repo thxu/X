@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Runtime.CompilerServices;
 using System.Security.Cryptography;
+using NewLife.IO;
 
 namespace NewLife.Security
 {

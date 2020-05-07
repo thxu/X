@@ -8,6 +8,7 @@ using NewLife.Log;
 using NewLife.Messaging;
 using NewLife.Net;
 using NewLife.Threading;
+using NewLife.Common;
 #if !NET4
 using TaskEx = System.Threading.Tasks.Task;
 #endif

@@ -5,6 +5,7 @@ using NewLife.Collections;
 using NewLife.Data;
 using NewLife.Extension;
 using NewLife.Messaging;
+using NewLife.Common;
 
 namespace NewLife.Http
 {

@@ -6,6 +6,7 @@ using NewLife.IO;
 using NewLife.Log;
 using NewLife.Model;
 using NewLife.Reflection;
+using NewLife.Collections;
 
 namespace NewLife.Windows
 {

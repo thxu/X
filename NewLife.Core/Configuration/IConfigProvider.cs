@@ -7,6 +7,7 @@ using System.Reflection;
 using System.Xml.Serialization;
 using NewLife.Extension;
 using NewLife.Reflection;
+using NewLife.Common;
 
 namespace NewLife.Configuration
 {

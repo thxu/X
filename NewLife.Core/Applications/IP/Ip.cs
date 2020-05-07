@@ -6,6 +6,7 @@ using NewLife.Extension;
 using NewLife.Log;
 using NewLife.Threading;
 using NewLife.Web;
+using NewLife.Common;
 
 #nullable enable
 namespace NewLife.IP

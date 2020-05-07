@@ -9,6 +9,8 @@ using NewLife.Data;
 using NewLife.Security;
 using System.Net.Http;
 using NewLife.Extension;
+using NewLife.IO;
+using NewLife.Common;
 
 namespace NewLife.Http
 {

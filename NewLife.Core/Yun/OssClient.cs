@@ -9,6 +9,7 @@ using System.Threading.Tasks;
 using NewLife.Data;
 using NewLife.Extension;
 using NewLife.Remoting;
+using NewLife.IO;
 
 namespace NewLife.Yun
 {

@@ -11,6 +11,7 @@ using NewLife.Extension;
 using NewLife.Log;
 using NewLife.Model;
 using NewLife.Serialization;
+using NewLife.Common;
 #if __WIN__
 using System.Management;
 using Microsoft.VisualBasic.Devices;

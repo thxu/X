@@ -2,6 +2,7 @@
 using System.Threading;
 using System.Threading.Tasks;
 using NewLife.Extension;
+using NewLife.Common;
 
 namespace NewLife.Log
 {

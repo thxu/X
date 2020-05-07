@@ -9,6 +9,7 @@ using NewLife.Messaging;
 using NewLife.Reflection;
 using NewLife.Remoting;
 using NewLife.Serialization;
+using NewLife.Common;
 
 namespace NewLife.Http
 {

@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Text;
+using NewLife.Common;
 
 namespace NewLife.Serialization
 {

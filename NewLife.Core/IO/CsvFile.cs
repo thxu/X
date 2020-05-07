@@ -6,6 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 using NewLife.Collections;
 using NewLife.Extension;
+using NewLife.Common;
 
 namespace NewLife.IO
 {

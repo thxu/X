@@ -6,6 +6,7 @@ using System.Linq;
 using System.Text;
 using NewLife.Collections;
 using NewLife.Log;
+using NewLife.Common;
 
 #nullable enable
 namespace NewLife.Extension

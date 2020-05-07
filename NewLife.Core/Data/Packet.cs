@@ -4,6 +4,7 @@ using System.IO;
 using System.Text;
 using System.Threading.Tasks;
 using NewLife.Collections;
+using NewLife.IO;
 
 namespace NewLife.Data
 {

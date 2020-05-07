@@ -7,6 +7,7 @@ using System.Web;
 using NewLife.Data;
 using NewLife.Extension;
 using NewLife.Serialization;
+using NewLife.Common;
 
 namespace NewLife.Yun
 {

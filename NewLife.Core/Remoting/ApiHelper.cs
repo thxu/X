@@ -11,6 +11,8 @@ using NewLife.Data;
 using NewLife.Extension;
 using NewLife.Reflection;
 using NewLife.Serialization;
+using NewLife.IO;
+using NewLife.Common;
 
 namespace NewLife.Remoting
 {

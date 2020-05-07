@@ -9,6 +9,7 @@ using NewLife.Log;
 using NewLife.Reflection;
 using NewLife.Serialization;
 using NewLife.Threading;
+using NewLife.IO;
 
 namespace NewLife.Json
 {

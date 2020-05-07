@@ -11,6 +11,8 @@ using NewLife.Log;
 using NewLife.Net;
 using NewLife.Reflection;
 using NewLife.Serialization;
+using NewLife.IO;
+using NewLife.Common;
 
 //#nullable enable
 namespace NewLife.Caching

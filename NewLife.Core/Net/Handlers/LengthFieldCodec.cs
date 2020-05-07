@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using NewLife.Data;
 using NewLife.Messaging;
 using NewLife.Model;
+using NewLife.IO;
 
 namespace NewLife.Net.Handlers
 {

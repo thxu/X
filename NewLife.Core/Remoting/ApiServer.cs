@@ -9,6 +9,7 @@ using NewLife.Messaging;
 using NewLife.Model;
 using NewLife.Net;
 using NewLife.Threading;
+using NewLife.Common;
 
 namespace NewLife.Remoting
 {

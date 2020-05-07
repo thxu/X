@@ -9,6 +9,7 @@ using System.Xml.Serialization;
 using NewLife.Collections;
 using NewLife.Extension;
 using NewLife.Reflection;
+using NewLife.IO;
 
 namespace NewLife.Serialization
 {

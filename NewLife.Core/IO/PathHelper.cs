@@ -4,6 +4,7 @@ using System.Text;
 using NewLife.Compression;
 using NewLife.Extension;
 using NewLife.IO;
+using NewLife.Common;
 
 namespace System.IO
 {

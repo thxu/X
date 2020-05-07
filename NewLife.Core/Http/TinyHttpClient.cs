@@ -18,6 +18,7 @@ using NewLife.Extension;
 using NewLife.Net;
 using NewLife.Reflection;
 using NewLife.Serialization;
+using NewLife.Common;
 #if !NET4
 using TaskEx = System.Threading.Tasks.Task;
 #endif

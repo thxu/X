@@ -5,6 +5,7 @@ using System.Reflection;
 using NewLife.Data;
 using NewLife.Log;
 using NewLife.Reflection;
+using NewLife.IO;
 
 namespace NewLife.Serialization
 {
