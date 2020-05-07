@@ -6,6 +6,7 @@ using System.Security.Authentication;
 using System.Security.Cryptography.X509Certificates;
 using System.Threading;
 using System.Threading.Tasks;
+using NewLife.Extension;
 using NewLife.Log;
 using NewLife.Model;
 

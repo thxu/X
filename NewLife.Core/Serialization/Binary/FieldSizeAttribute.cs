@@ -2,6 +2,7 @@
 using System.Collections;
 using System.Reflection;
 using System.Text;
+using NewLife.Extension;
 using NewLife.Reflection;
 
 namespace NewLife.Serialization

@@ -1,4 +1,5 @@
 ﻿using System;
+using NewLife.Extension;
 
 namespace NewLife.Data
 {

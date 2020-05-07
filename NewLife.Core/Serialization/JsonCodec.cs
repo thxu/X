@@ -1,5 +1,6 @@
 ﻿using System;
 using NewLife.Data;
+using NewLife.Extension;
 using NewLife.Model;
 using NewLife.Net.Handlers;
 

@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
 using NewLife.Data;
+using NewLife.Extension;
 using NewLife.Log;
 using NewLife.Security;
 using NewLife.Serialization;

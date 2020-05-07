@@ -5,6 +5,7 @@ using System.IO;
 using System.IO.Compression;
 using System.Xml.Serialization;
 using NewLife;
+using NewLife.Extension;
 using NewLife.Reflection;
 using NewLife.Security;
 using NewLife.Serialization;

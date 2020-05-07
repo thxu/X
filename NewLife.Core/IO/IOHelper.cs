@@ -5,6 +5,7 @@ using System.IO.Compression;
 using System.Text;
 using NewLife;
 using NewLife.Collections;
+using NewLife.Extension;
 using NewLife.Reflection;
 
 namespace System

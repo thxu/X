@@ -2,6 +2,7 @@
 using System.Collections.Concurrent;
 using System.Diagnostics;
 using System.Threading;
+using NewLife.Extension;
 using NewLife.Log;
 using NewLife.Reflection;
 using NewLife.Threading;

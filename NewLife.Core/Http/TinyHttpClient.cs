@@ -14,6 +14,7 @@ using System.Threading.Tasks;
 using System.Web;
 using NewLife.Collections;
 using NewLife.Data;
+using NewLife.Extension;
 using NewLife.Net;
 using NewLife.Reflection;
 using NewLife.Serialization;

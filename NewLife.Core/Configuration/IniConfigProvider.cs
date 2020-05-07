@@ -1,6 +1,7 @@
 ﻿using System;
 using System.IO;
 using System.Text;
+using NewLife.Extension;
 using NewLife.Log;
 
 namespace NewLife.Configuration

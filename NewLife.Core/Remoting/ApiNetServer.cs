@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+using NewLife.Extension;
 using NewLife.Http;
 using NewLife.Messaging;
 using NewLife.Net;

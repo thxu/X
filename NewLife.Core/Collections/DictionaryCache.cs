@@ -5,6 +5,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Threading;
 using System.Threading.Tasks;
+using NewLife.Extension;
 using NewLife.Threading;
 
 namespace NewLife.Collections

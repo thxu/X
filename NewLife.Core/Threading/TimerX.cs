@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Threading;
+using NewLife.Extension;
 
 #nullable enable
 namespace NewLife.Threading

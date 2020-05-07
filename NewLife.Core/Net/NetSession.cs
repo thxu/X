@@ -5,6 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 using NewLife.Collections;
 using NewLife.Data;
+using NewLife.Extension;
 using NewLife.Log;
 
 namespace NewLife.Net

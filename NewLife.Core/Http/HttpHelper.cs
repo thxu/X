@@ -8,6 +8,7 @@ using NewLife.Collections;
 using NewLife.Data;
 using NewLife.Security;
 using System.Net.Http;
+using NewLife.Extension;
 
 namespace NewLife.Http
 {

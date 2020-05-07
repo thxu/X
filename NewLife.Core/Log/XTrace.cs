@@ -3,6 +3,7 @@ using System.Reflection;
 using System.Runtime.Versioning;
 using System.Threading;
 using System.Threading.Tasks;
+using NewLife.Extension;
 #if __WIN__
 using System.Windows.Forms;
 #endif

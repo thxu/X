@@ -5,6 +5,7 @@ using System.Security.Cryptography;
 using System.Threading;
 using System.Web;
 using NewLife.Collections;
+using NewLife.Extension;
 using NewLife.Log;
 
 namespace NewLife.Web

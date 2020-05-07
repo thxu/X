@@ -4,6 +4,7 @@ using System.Reflection;
 using System.Text;
 using System.Threading;
 using System.Web.Script.Serialization;
+using NewLife.Extension;
 using NewLife.Log;
 using NewLife.Reflection;
 using NewLife.Serialization;

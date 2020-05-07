@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections;
 using System.Collections.Generic;
+using NewLife.Extension;
 using NewLife.Reflection;
 
 namespace NewLife.Serialization

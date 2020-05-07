@@ -2,6 +2,7 @@
 using System.Diagnostics;
 using System.IO;
 using Microsoft.Win32;
+using NewLife.Extension;
 using NewLife.Log;
 using NewLife.Web;
 

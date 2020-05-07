@@ -3,6 +3,7 @@ using System.Collections;
 using System.Collections.Generic;
 using NewLife.Reflection;
 using System.Linq;
+using NewLife.Extension;
 
 namespace NewLife.Serialization
 {

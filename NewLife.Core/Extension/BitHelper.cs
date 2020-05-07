@@ -1,5 +1,7 @@
 ﻿
-namespace System
+using System;
+
+namespace NewLife.Extension
 {
     /// <summary>数据位助手</summary>
     public static class BitHelper

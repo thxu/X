@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using NewLife.Data;
+using NewLife.Extension;
 using NewLife.Messaging;
 using NewLife.Model;
 using NewLife.Serialization;

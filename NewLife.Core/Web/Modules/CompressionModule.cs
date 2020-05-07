@@ -4,6 +4,7 @@ using System.ComponentModel;
 using System.IO.Compression;
 using System.Linq;
 using System.Web;
+using NewLife.Extension;
 using NewLife.Reflection;
 
 namespace NewLife.Web

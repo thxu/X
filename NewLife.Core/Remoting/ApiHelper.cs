@@ -8,6 +8,7 @@ using System.Net.Http.Headers;
 using System.Threading.Tasks;
 using NewLife.Collections;
 using NewLife.Data;
+using NewLife.Extension;
 using NewLife.Reflection;
 using NewLife.Serialization;
 

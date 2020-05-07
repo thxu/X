@@ -4,6 +4,7 @@ using System.Diagnostics;
 using System.IO;
 using System.Linq;
 using System.Runtime.Serialization.Formatters.Binary;
+using NewLife.Extension;
 using NewLife.Log;
 using NewLife.Reflection;
 using NewLife.Security;

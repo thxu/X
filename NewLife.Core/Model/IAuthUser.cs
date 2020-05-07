@@ -1,4 +1,5 @@
 ﻿using System;
+using NewLife.Extension;
 using NewLife.Net;
 using NewLife.Web;
 

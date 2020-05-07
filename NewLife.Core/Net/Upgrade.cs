@@ -5,6 +5,7 @@ using System.IO;
 using System.Linq;
 using System.Reflection;
 using System.Threading.Tasks;
+using NewLife.Extension;
 using NewLife.Log;
 using NewLife.Reflection;
 using NewLife.Web;

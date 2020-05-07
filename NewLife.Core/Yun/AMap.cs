@@ -5,6 +5,7 @@ using System.Linq;
 using System.Threading.Tasks;
 using System.Web;
 using NewLife.Data;
+using NewLife.Extension;
 using NewLife.Serialization;
 
 namespace NewLife.Yun

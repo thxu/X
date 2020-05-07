@@ -3,6 +3,7 @@ using System.Collections;
 using System.Collections.Concurrent;
 using System.Collections.Generic;
 using System.Linq;
+using NewLife.Extension;
 using NewLife.Log;
 using NewLife.Threading;
 

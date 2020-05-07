@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.IO;
 using System.Text.RegularExpressions;
 using NewLife.Collections;
+using NewLife.Extension;
 
 namespace NewLife.Web
 {

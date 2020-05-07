@@ -4,6 +4,7 @@ using System.Linq;
 using System.Web;
 using NewLife.Collections;
 using NewLife.Data;
+using NewLife.Extension;
 using NewLife.Messaging;
 using NewLife.Reflection;
 using NewLife.Remoting;

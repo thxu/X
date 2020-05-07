@@ -7,6 +7,7 @@ using System.Reflection;
 using System.Text;
 using System.Threading.Tasks;
 using NewLife.Data;
+using NewLife.Extension;
 using NewLife.Remoting;
 
 namespace NewLife.Yun

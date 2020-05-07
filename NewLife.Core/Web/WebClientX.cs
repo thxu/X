@@ -7,6 +7,7 @@ using System.Reflection;
 using System.Threading;
 using System.Threading.Tasks;
 using NewLife.Collections;
+using NewLife.Extension;
 using NewLife.Log;
 #if !NET4
 using System.Net.Http;

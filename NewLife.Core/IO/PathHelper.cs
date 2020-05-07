@@ -2,6 +2,7 @@
 using System.IO.Compression;
 using System.Text;
 using NewLife.Compression;
+using NewLife.Extension;
 using NewLife.IO;
 
 namespace System.IO

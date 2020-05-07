@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Reflection;
+using NewLife.Extension;
 using NewLife.Reflection;
 
 namespace NewLife.Remoting

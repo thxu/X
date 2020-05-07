@@ -2,6 +2,7 @@
 using System.Linq;
 using NewLife.Collections;
 using NewLife.Data;
+using NewLife.Extension;
 using NewLife.Http;
 using NewLife.Log;
 using NewLife.Messaging;

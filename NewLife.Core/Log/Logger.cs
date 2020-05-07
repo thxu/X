@@ -5,6 +5,7 @@ using System.Reflection;
 using System.Runtime;
 using System.Runtime.InteropServices;
 using System.Text;
+using NewLife.Extension;
 
 namespace NewLife.Log
 {

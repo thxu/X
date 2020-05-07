@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.IO;
+using NewLife.Extension;
 using NewLife.Log;
 
 namespace NewLife.Configuration

@@ -4,6 +4,7 @@ using System.IO;
 using System.Linq;
 using System.Text;
 using System.Threading;
+using NewLife.Extension;
 using NewLife.Threading;
 
 namespace NewLife.Log

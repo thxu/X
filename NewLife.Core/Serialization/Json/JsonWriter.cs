@@ -6,6 +6,7 @@ using System.Globalization;
 using System.Linq;
 using System.Text;
 using NewLife.Data;
+using NewLife.Extension;
 using NewLife.Reflection;
 
 namespace NewLife.Serialization

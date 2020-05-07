@@ -2,6 +2,7 @@
 using System.Collections.Concurrent;
 using System.Collections.Generic;
 using System.Threading.Tasks;
+using NewLife.Extension;
 using NewLife.Log;
 
 namespace NewLife.Model

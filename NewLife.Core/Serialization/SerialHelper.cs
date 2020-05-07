@@ -2,6 +2,7 @@
 using System.Collections.Concurrent;
 using System.Reflection;
 using System.Xml.Serialization;
+using NewLife.Extension;
 
 namespace NewLife.Serialization
 {

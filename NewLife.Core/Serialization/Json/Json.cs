@@ -4,6 +4,7 @@ using System.Diagnostics;
 using System.IO;
 using System.Text;
 using NewLife.Collections;
+using NewLife.Extension;
 using NewLife.Reflection;
 
 namespace NewLife.Serialization

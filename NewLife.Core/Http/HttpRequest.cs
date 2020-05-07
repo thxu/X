@@ -1,5 +1,6 @@
 ﻿using System;
 using NewLife.Collections;
+using NewLife.Extension;
 
 namespace NewLife.Http
 {

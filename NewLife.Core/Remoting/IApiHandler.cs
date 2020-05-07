@@ -6,6 +6,7 @@ using System.Threading;
 using NewLife.Caching;
 using NewLife.Collections;
 using NewLife.Data;
+using NewLife.Extension;
 using NewLife.Http;
 using NewLife.Log;
 using NewLife.Messaging;

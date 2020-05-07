@@ -2,6 +2,7 @@
 using System.IO;
 using System.Reflection;
 using System.Xml.Serialization;
+using NewLife.Extension;
 using NewLife.Log;
 using NewLife.Threading;
 

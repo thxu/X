@@ -4,6 +4,7 @@ using System.Collections.Generic;
 using System.Collections.Specialized;
 using System.Linq;
 using NewLife.Data;
+using NewLife.Extension;
 using NewLife.Reflection;
 
 namespace NewLife.Serialization

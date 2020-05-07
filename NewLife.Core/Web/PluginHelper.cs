@@ -1,5 +1,6 @@
 ﻿using System;
 using System.IO;
+using NewLife.Extension;
 using NewLife.Log;
 using NewLife.Reflection;
 

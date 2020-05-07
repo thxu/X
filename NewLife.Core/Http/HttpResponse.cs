@@ -3,6 +3,7 @@ using System.Linq;
 using System.Net;
 using NewLife.Collections;
 using NewLife.Data;
+using NewLife.Extension;
 using NewLife.Messaging;
 
 namespace NewLife.Http

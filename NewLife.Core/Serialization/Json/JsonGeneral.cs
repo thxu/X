@@ -4,6 +4,7 @@ using System.Collections;
 using System.Collections.Generic;
 using System.Text;
 using System.Xml.Serialization;
+using NewLife.Extension;
 
 namespace NewLife.Serialization
 {

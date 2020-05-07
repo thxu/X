@@ -2,6 +2,7 @@
 using System.ComponentModel;
 using System.IO;
 using NewLife.Configuration;
+using NewLife.Extension;
 using NewLife.Log;
 
 namespace NewLife
